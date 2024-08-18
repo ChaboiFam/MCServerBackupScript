@@ -23,8 +23,8 @@ Requirements:
 
 
 	-If you have Send Messages to server on you must have your server title be called Minecraft Server
-				(To do this have a batch file launch your MC server and add this to the top to title it "title Minecraft Server")   
-															(Quotes aren't needed.)
+		(To do this have a batch file launch your MC server and add this to the top to title it "title Minecraft Server")   
+													(Quotes aren't needed.)
 
 
 How to use:
