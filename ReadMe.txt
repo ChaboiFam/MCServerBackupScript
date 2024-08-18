@@ -1,4 +1,4 @@
-			Minecraft Server Backup Script V2.0
+					Minecraft Server Backup Script V2.0
 			
 Features:
 		-Automatically makes a backup of your minecraft world.
